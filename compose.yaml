@@ -1,0 +1,4 @@
+# Intentionally old images: a TrueSource Viewer demo, do not run.
+services:
+  db:
+    image: bitnami/mysql:5.7.36

@@ -1,0 +1,12 @@
+{
+  "name": "truesource-demo-legacy-crm-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable demo for TrueSource Viewer; do not install.",
+  "dependencies": {
+    "jquery": "3.4.1",
+    "bootstrap": "4.1.3",
+    "datatables.net": "1.10.20",
+    "underscore": "1.12.0"
+  }
+}
